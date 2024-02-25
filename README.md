@@ -8,7 +8,7 @@ Este é um projeto que foi desenvolvido como parte do desafio técnico proposto 
 Para clonar o repositório em sua máquina local, execute o seguinte comando:
 
 ```
-  $ git clone https://github.com/bia0a/test-e2e-Webjump.git
+  $ git clone https://github.com/bia0a/Webjump-test-e2e.git
 
 ```
 ### Instalação do Cypress
